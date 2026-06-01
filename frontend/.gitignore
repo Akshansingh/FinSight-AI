@@ -1,0 +1,27 @@
+cat > .gitignore << 'EOF'
+# secrets
+.env
+
+# python env/cache
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# frontend dependencies/build
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+node_modules/
+.next/
+
+# datasets/models too large for GitHub
+data/external/
+models/
+
+# mac/cache
+.DS_Store
+*.log
+.ipynb_checkpoints/
+EOF
