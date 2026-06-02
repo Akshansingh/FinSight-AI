@@ -4,7 +4,7 @@
 
 
 👨‍💻 **Author**: [Akshan Singh](https://github.com/Akshansingh)
-📅 **Duration**: Jun 2025 – Present
+📅 **Duration**: Jan 2026 – Present
 🏷️ **Tags**: `FinTech` `Machine Learning` `Apache Kafka` `Apache Spark` `Deep Learning` `Python` `FastAPI` `React`
 
 ---
